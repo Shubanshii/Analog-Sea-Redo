@@ -18,4 +18,16 @@ img	{
 	background-color: white;
 	margin-right: auto;
 	margin-left: auto;
+	padding-top: 20px;
+	margin-top: 30px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+    color: rgba(0, 0, 0, 0.61);
+}
+
+label {
+	display: block;
 }

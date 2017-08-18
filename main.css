@@ -27,7 +27,26 @@ h1 {
     margin: .67em 0;
     color: rgba(0, 0, 0, 0.61);
 }
+fieldset {
+    border: none;
+    padding-left: 0px;
+    margin-left: 0px;
+    position: relative;
+}
+label{
+	position: absolute;
+	display: block;
+}
+.email {
 
-label {
+}
+
+input{
+	display: block;
+}
+button {
+	display: block;
+}
+a {
 	display: block;
 }
